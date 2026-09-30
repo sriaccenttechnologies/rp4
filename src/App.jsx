@@ -1,10 +1,10 @@
-import Conren3 from "./components/Conren3"
+import Mapfun2 from "./components/Mapfun2"
 
 function App() {
  
   return (
     <>
-      <Conren3  status="error" />  
+      <Mapfun2/>
     </>
   )
 }
