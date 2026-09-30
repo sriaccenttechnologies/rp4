@@ -1,10 +1,10 @@
-import Conren2 from "./components/Conren2"
+import Conren3 from "./components/Conren3"
 
 function App() {
  
   return (
     <>
-      <Conren2/>
+      <Conren3  status="error" />  
     </>
   )
 }
